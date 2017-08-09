@@ -1,2 +1,2 @@
 # hello-world
-# In the master
+# In the branch to be merged with master
